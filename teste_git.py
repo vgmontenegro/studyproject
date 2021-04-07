@@ -7,4 +7,3 @@ print("Desenvolvimento")
 print("Conflitos são resolvidos facilmente")
 #titulo
 
-
