@@ -1,7 +1,7 @@
 print("Testando o github")
 
 print("Título")
-print("Gerando conflitos!")
+print("Gerando conflitos e corrigindo!")
 
 print("Desenvolvimento")
 print("Conflitos são resolvidos facilmente")
