@@ -4,5 +4,5 @@ print("Título")
 print("Gerando conflitos!")
 
 print("Desenvolvimento")
-print("Conflitos são resolvidos facilmente")
+print("Conflitos são resolvidos facilmente. Vamos ver")
 
