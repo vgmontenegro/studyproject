@@ -1,0 +1,2 @@
+# Nasa Power API requests structure
+https://power.larc.nasa.gov/api/pages/?urls.primaryName=Daily
